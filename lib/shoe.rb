@@ -20,3 +20,4 @@ shoe.size = "small"
 shoe.size
 shoe.cobble
 shoe.condition
+shoe.brands
