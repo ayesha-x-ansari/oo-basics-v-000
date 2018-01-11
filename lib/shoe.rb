@@ -15,3 +15,8 @@ end# Make your shoe class here!
 
 shoe = Shoe.new("Nike")
 shoe.condition = "tattered"
+shoe.condition = "old"
+shoe.cobble
+shoe.condition
+
+
