@@ -13,5 +13,5 @@ class Shoe
 end# Make your shoe class here!
 
 
-shoe = Shoe.new(Nike)
+shoe = Shoe.new("Nike")
 shoe.condition = "tattered"
